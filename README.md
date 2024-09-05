@@ -5,12 +5,19 @@
 ## Application Operation Steps:
 
 1). Open the Application
+
 2). Select Add Module
+
 3). Enter Module Details from the module name to the start date
+
 4). Click the submit button or clear button incase of mistakes
+
 5). Select a row to delete
+
 6). Click the delete button to delete selected row
+
 7). Click the X icon to close the Application
+
 
 ## REFERENCES:
 hemarn. 2023. Update WPF Datagrid when item is added to ObservableCollection [Source code]. https://stackoverflow.com/questions/77153123/update-wpf-datagrid-when-item-is-added-to-observablecollection (Accessed 22 September 2023)
